@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4552a5b5-066a-4d72-b0c4-a729b6660f04" name="Changes" comment="Lagt inn min del" />
+    <list default="true" id="4552a5b5-066a-4d72-b0c4-a729b6660f04" name="Changes" comment="bilde fil nr 2">
+      <change afterPath="$PROJECT_DIR$/yahya.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,9 @@
     "accountId": "8a4b866e-fe58-4b3c-952f-925d02460fed"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -38,7 +43,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/yahyaahmed/Documents/weboblig1,1"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -70,7 +76,35 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1758736173693</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Lagt inn min del">
+      <option name="closed" value="true" />
+      <created>1758736691953</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1758736691953</updated>
+    </task>
+    <task id="LOCAL−00004" summary="andre delen gjort">
+      <option name="closed" value="true" />
+      <created>1758737456652</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1758737456652</updated>
+    </task>
+    <task id="LOCAL−00005" summary="bilde fil">
+      <option name="closed" value="true" />
+      <created>1758738683305</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1758738683305</updated>
+    </task>
+    <task id="LOCAL−00006" summary="bilde fil nr 2">
+      <option name="closed" value="true" />
+      <created>1758738995533</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1758738995533</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +120,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lagt inn min del" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lagt inn min del" />
+    <MESSAGE value="andre delen gjort" />
+    <MESSAGE value="bilde fil" />
+    <MESSAGE value="bilde fil nr 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="bilde fil nr 2" />
   </component>
 </project>
